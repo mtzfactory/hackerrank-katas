@@ -7,5 +7,6 @@ Katas taken in [HackerRank][hackerrank].
 3. [Time Conversion](./src/003-time-conversion/README.md)
 4. [Breaking The Records](./src/004-breaking-the-records/README.md)
 5. [Camel Case 4](./src/004-camel-case-4/README.md)
+6. [Divisible Sum Pairs](./src/006-divisible-sum-pairs/README.md)
 
 [hackerrank]: https://www.hackerrank.com/
